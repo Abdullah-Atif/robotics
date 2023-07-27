@@ -1,0 +1,68 @@
+setting up arduino
+Arduino Nano-450 tk
+Bread Board-70tk
+Veroboard Dot-30 tk
+Veroboard line-25tk
+Male Header Pin-8tk
+Female Header Pin-15tk
+DC Barrel Jack (male)-30tk
+DC Barrel Jack (female)-30tk
+5v 2A Power Adapter-150tk
+sum=808tk
+
+
+smart dust bin
+servo mini-149tk
+Sonar Sensor-95tk
+sum=244
+
+
+
+smart fire alarm
+Flame Sensor-60tk
+MQ2 Smoke Sensor-150tk
+Buzzer-50tk
+sum=260
+
+
+smart motion light-
+PIR Sensor-80tk
+5v Relay-70tk
+AC220 to DC-5v Power-90 tk
+sum=240
+
+
+samart door lock
+4x4 Keypad-90tk
+Arduino Uno-820tk
+I2C :LCD Display-300tk
+Solenoid Lock-750
+12v 2A Adapter-150tk
+sum=2110
+without uno=1290
+
+Soccer Bot
+motor-1250tk
+wheel-450tk
+motor mount-220tk
+6mm Hex Shaft-130tk
+BTS Motor Driver-480tk
+HC 05 Bluetooth Module-380tk
+11.1v 2200MAH Lipo-2500tk
+sum=5410Tk
+
+
+
+
+tools
+Jumper Wire MM-65tk
+Jumper Wire MF-65 tk
+Jumper Wire FF-65tk
+Screw Driver Set-200tk
+Glue Gun-220tk
+sum=615
+
+
+
+
+
