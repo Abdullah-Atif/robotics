@@ -34,7 +34,7 @@ void yellow()
 digitalWrite(red,HIGH);
 digitalWrite(green,HIGH);
 delay(1000);
-digitalWrite(red,low);
-digitalWrite(green,HIGH);
+digitalWrite(red,LOW);
+digitalWrite(green,LOW);
 delay(1000);
 }
