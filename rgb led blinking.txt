@@ -10,7 +10,13 @@ void setup()
 
 void loop()
 {
-    digitalWrite(red,HIGH);
+   rgb();
+  yellow();
+}
+
+void rgb()
+{
+  digitalWrite(red,HIGH);
   delay(1000);
     digitalWrite(red,LOW);
   delay(1000);
@@ -22,4 +28,13 @@ void loop()
   delay(1000);
     digitalWrite(green,LOW);
   delay(1000);
+}
+void yellow()
+{
+digitalWrite(red,HIGH);
+digitalWrite(green,HIGH);
+delay(1000);
+digitalWrite(red,low);
+digitalWrite(green,HIGH);
+delay(1000);
 }
